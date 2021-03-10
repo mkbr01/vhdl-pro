@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="impl_1" LaunchPart="xc7a35ticpg236-1L" LaunchTime="1614091698">
+  <File Type="WBT-USG" Name="usage_statistics_webtalk.html"/>
+  <File Type="BITSTR-SYSDEF" Name="mySWLED.sysdef"/>
+  <File Type="BITSTR-LTX" Name="debug_nets.ltx"/>
+  <File Type="BITSTR-LTX" Name="mySWLED.ltx"/>
+  <File Type="BG-BGN" Name="mySWLED.bgn"/>
+  <File Type="NPI_FILE" Name="mySWLED.npi"/>
+  <File Type="BG-DRC" Name="mySWLED.drc"/>
+  <File Type="RNPI_FILE" Name="mySWLED.rnpi"/>
+  <File Type="CFI_FILE" Name="mySWLED.cfi"/>
+  <File Type="RCFI_FILE" Name="mySWLED.rcfi"/>
+  <File Type="PDI-FILE" Name="mySWLED.pdi"/>
+  <File Type="BITSTR-MMI" Name="mySWLED.mmi"/>
+  <File Type="BITSTR-BMM" Name="mySWLED_bd.bmm"/>
+  <File Type="BITSTR-NKY" Name="mySWLED.nky"/>
+  <File Type="BITSTR-RBT" Name="mySWLED.rbt"/>
+  <File Type="BITSTR-MSK" Name="mySWLED.msk"/>
+  <File Type="RBD_FILE" Name="mySWLED.rbd"/>
+  <File Type="BG-BIN" Name="mySWLED.bin"/>
+  <File Type="BG-BIT" Name="mySWLED.bit"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-RPX" Name="mySWLED_bus_skew_postroute_physopted.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-PB" Name="mySWLED_bus_skew_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW" Name="mySWLED_bus_skew_postroute_physopted.rpt"/>
+  <File Type="RDI-RDI" Name="mySWLED.vdi"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-RPX" Name="mySWLED_timing_summary_postroute_physopted.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-PB" Name="mySWLED_timing_summary_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING" Name="mySWLED_timing_summary_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-BLACKBOX-DCP" Name="mySWLED_postroute_physopt_bb.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-DCP" Name="mySWLED_postroute_physopt.dcp"/>
+  <File Type="ROUTE-BUS-SKEW" Name="mySWLED_bus_skew_routed.rpt"/>
+  <File Type="ROUTE-CLK" Name="mySWLED_clock_utilization_routed.rpt"/>
+  <File Type="ROUTE-SIMILARITY" Name="mySWLED_incremental_reuse_routed.rpt"/>
+  <File Type="ROUTE-TIMING-RPX" Name="mySWLED_timing_summary_routed.rpx"/>
+  <File Type="ROUTE-TIMING-PB" Name="mySWLED_timing_summary_routed.pb"/>
+  <File Type="ROUTE-TIMINGSUMMARY" Name="mySWLED_timing_summary_routed.rpt"/>
+  <File Type="ROUTE-STATUS-PB" Name="mySWLED_route_status.pb"/>
+  <File Type="ROUTE-STATUS" Name="mySWLED_route_status.rpt"/>
+  <File Type="ROUTE-PWR-RPX" Name="mySWLED_power_routed.rpx"/>
+  <File Type="ROUTE-PWR-SUM" Name="mySWLED_power_summary_routed.pb"/>
+  <File Type="ROUTE-PWR" Name="mySWLED_power_routed.rpt"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-PB" Name="mySWLED_methodology_drc_routed.pb"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-RPX" Name="mySWLED_methodology_drc_routed.rpx"/>
+  <File Type="ROUTE-METHODOLOGY-DRC" Name="mySWLED_methodology_drc_routed.rpt"/>
+  <File Type="ROUTE-DRC-RPX" Name="mySWLED_drc_routed.rpx"/>
+  <File Type="ROUTE-DRC-PB" Name="mySWLED_drc_routed.pb"/>
+  <File Type="ROUTE-DRC" Name="mySWLED_drc_routed.rpt"/>
+  <File Type="ROUTE-BLACKBOX-DCP" Name="mySWLED_routed_bb.dcp"/>
+  <File Type="ROUTE-DCP" Name="mySWLED_routed.dcp"/>
+  <File Type="ROUTE-ERROR-DCP" Name="mySWLED_routed_error.dcp"/>
+  <File Type="PHYSOPT-TIMING" Name="mySWLED_timing_summary_physopted.rpt"/>
+  <File Type="PHYSOPT-DRC" Name="mySWLED_drc_physopted.rpt"/>
+  <File Type="PHYSOPT-DCP" Name="mySWLED_physopt.dcp"/>
+  <File Type="POSTPLACE-PWROPT-TIMING" Name="mySWLED_timing_summary_postplace_pwropted.rpt"/>
+  <File Type="POSTPLACE-PWROPT-DCP" Name="mySWLED_postplace_pwropt.dcp"/>
+  <File Type="PLACE-TIMING" Name="mySWLED_timing_summary_placed.rpt"/>
+  <File Type="PLACE-PRE-SIMILARITY" Name="mySWLED_incremental_reuse_pre_placed.rpt"/>
+  <File Type="PLACE-SIMILARITY" Name="mySWLED_incremental_reuse_placed.rpt"/>
+  <File Type="PLACE-CTRL" Name="mySWLED_control_sets_placed.rpt"/>
+  <File Type="PLACE-UTIL-PB" Name="mySWLED_utilization_placed.pb"/>
+  <File Type="PLACE-UTIL" Name="mySWLED_utilization_placed.rpt"/>
+  <File Type="PLACE-CLK" Name="mySWLED_clock_utilization_placed.rpt"/>
+  <File Type="PLACE-IO" Name="mySWLED_io_placed.rpt"/>
+  <File Type="PLACE-DCP" Name="mySWLED_placed.dcp"/>
+  <File Type="PWROPT-TIMING" Name="mySWLED_timing_summary_pwropted.rpt"/>
+  <File Type="PWROPT-DRC" Name="mySWLED_drc_pwropted.rpt"/>
+  <File Type="PWROPT-DCP" Name="mySWLED_pwropt.dcp"/>
+  <File Type="OPT-TIMING" Name="mySWLED_timing_summary_opted.rpt"/>
+  <File Type="OPT-HWDEF" Name="mySWLED.hwdef"/>
+  <File Type="OPT-METHODOLOGY-DRC" Name="mySWLED_methodology_drc_opted.rpt"/>
+  <File Type="OPT-DRC" Name="mySWLED_drc_opted.rpt"/>
+  <File Type="OPT-DCP" Name="mySWLED_opt.dcp"/>
+  <File Type="INIT-TIMING" Name="mySWLED_timing_summary_init.rpt"/>
+  <File Type="ROUTE-BUS-SKEW-RPX" Name="mySWLED_bus_skew_routed.rpx"/>
+  <File Type="REPORTS-TCL" Name="mySWLED_reports.tcl"/>
+  <File Type="ROUTE-BUS-SKEW-PB" Name="mySWLED_bus_skew_routed.pb"/>
+  <File Type="PA-TCL" Name="mySWLED.tcl"/>
+  <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1" RelGenDir="$PGENDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="$PSRCDIR/sources_1/new/mySWLED.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+      <Option Name="TopModule" Val="mySWLED"/>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1">
+    <Filter Type="Constrs"/>
+    <File Path="$PPRDIR/../../../../../opt/Downloads/digilent-xdc-master/Basys-3-Master.xdc">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/constrs_1/new/swled_constraint.xdc">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="TargetConstrsFile" Val="$PSRCDIR/constrs_1/new/swled_constraint.xdc"/>
+      <Option Name="ConstrsType" Val="XDC"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="utils" Type="Utils" RelSrcDir="$PSRCDIR/utils_1">
+    <Filter Type="Utils"/>
+    <Config>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2020">
+      <Desc>Default settings for Implementation.</Desc>
+    </StratHandle>
+    <Step Id="init_design"/>
+    <Step Id="opt_design"/>
+    <Step Id="power_opt_design"/>
+    <Step Id="place_design"/>
+    <Step Id="post_place_power_opt_design"/>
+    <Step Id="phys_opt_design"/>
+    <Step Id="route_design"/>
+    <Step Id="post_route_phys_opt_design"/>
+    <Step Id="write_bitstream"/>
+  </Strategy>
+</GenRun>

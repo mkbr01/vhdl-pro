@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:47 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Tue Feb 23 17:21:35 2021
+# Process ID: 135334
+# Current directory: /home/mk/Documents/fpga projects/project_2/project_2.sim/sim_1/behav/xsim
+# Command line: wbtcv -mode batch -source /home/mk/Documents/fpga projects/project_2/project_2.sim/sim_1/behav/xsim/xsim.dir/test_mySWLED_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: /home/mk/Documents/fpga projects/project_2/project_2.sim/sim_1/behav/xsim/webtalk.log
+# Journal file: /home/mk/Documents/fpga projects/project_2/project_2.sim/sim_1/behav/xsim/webtalk.jou
+#-----------------------------------------------------------
+source /home/mk/Documents/fpga -notrace
